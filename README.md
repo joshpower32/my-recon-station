@@ -21,7 +21,8 @@ This setup isn't just a script; it's a dedicated hardware strategy:
 ## 🛠️ OPERATION
 1. **Prepare:** Drop subdomains into `all_subdomains.txt`.
 2. **Execute:** ```bash
-   sentinel
+   sentinel```
+   
 ## ⚖️ ETHICAL STANDARDS
 This node identifies itself in every request. All scanning is performed at a conservative rate-limit (15 req/sec) to ensure no disruption of service to target infrastructure.
 
