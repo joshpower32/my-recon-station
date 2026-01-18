@@ -22,3 +22,14 @@ This setup isn't just a script; it's a dedicated hardware strategy:
 1. **Prepare:** Drop subdomains into `all_subdomains.txt`.
 2. **Execute:** ```bash
    sentinel
+3. **Monitor:** Check progress via the tmux dashboard or wait for the ntfy ping on mobile.
+
+## ⚖️ ETHICAL STANDARDS
+This node identifies itself in every request. All scanning is performed at a conservative rate-limit (15 req/sec) to ensure no disruption of service to target infrastructure.
+
+**Header:** X-Bug-Bounty: joshuadanielca
+
+**User-Agent:** X-Bug-Bounty: joshuadanielca
+
+
+Developed by : Github JoshPower32 / X joshuadanielca
