@@ -1,7 +1,0 @@
-# --- 🛡️ Silent Sentinel Ignore List --# Ignore the data folders
-automattic/recon/
-automattic/targets/
-automattic/logs/
-# Ignore system files
-.DS_Store
-*.log
